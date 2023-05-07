@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning MERN stack<br>👯 I’m looking to with open source projects <br>🤝 I’m looking for help to build better UI websites<br>⚡ Iam Anudeep and it's nice 🙂 to meet you 🤝.
+🔭 I’m currently learning MERN stack<br>👯 I’m looking to work with open source projects <br>🤝 I’m looking for help to build better UI websites<br>⚡ Iam Anudeep and it's nice 🙂 to meet you 🤝.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agap-0251&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
-  ## 🤝 To meet me
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/By me a coffee - agap-0251) 
+  
 
 
